@@ -1,4 +1,4 @@
-import {renderCalendar} from './script'
+import { renderCalendar } from "./script";
 import "./style.css";
 
-renderCalendar()
+renderCalendar();
