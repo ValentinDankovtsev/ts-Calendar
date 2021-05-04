@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ValentinDankovtsev@github.com/ValentinDankovtsev/js-ts--gameOfLife.git"
+    "url": "git+https://ValentinDankovtsev@github.com/ValentinDankovtsev/ts-Calendar.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ValentinDankovtsev/js-ts--gameOfLife/issues"
+    "url": "https://github.com/ValentinDankovtsev/ts-Calendar/issues"
   },
-  "homepage": "https://github.com/ValentinDankovtsev/js-ts--gameOfLife#readme",
+  "homepage": "https://github.com/ValentinDankovtsev/ts-Calendar#readme",
   "devDependencies": {
     "@babel/core": "^7.12.17",
     "@babel/plugin-transform-runtime": "^7.12.17",
